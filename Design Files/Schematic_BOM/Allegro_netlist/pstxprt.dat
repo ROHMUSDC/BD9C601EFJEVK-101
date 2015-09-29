@@ -1,0 +1,230 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.5.0 p001Feb-10-2014 at 11:02:24 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='BD9C601EFJEVK-101_SCH_REV00_2014-01-06';
+ POST_TIME='Mar 26 2012 19:10:13';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_VER_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62518135@MYLIBRARY_16AUG13.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62518135@mylibrary_16aug13.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62518135@mylibrary_16aug13.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_VER_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62517799@MYLIBRARY_16AUG13.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62517799@mylibrary_16aug13.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62517799@mylibrary_16aug13.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_VER_C1206_22UF':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62516473@MYLIBRARY_16AUG13.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62516473@mylibrary_16aug13.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62516473@mylibrary_16aug13.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_VER_C1206_22UF':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62516509@MYLIBRARY_16AUG13.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62516509@mylibrary_16aug13.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62516509@mylibrary_16aug13.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_HOZ_C0603_VAL':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62524647@MYLIBRARY_22AUG13.CAP_HOZ.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62524647@mylibrary_22aug13.\cap_hoz.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62524647@mylibrary_22aug13.\cap_hoz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_VER_C0603_1500PF':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62521108@MYLIBRARY_16AUG13.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62521108@mylibrary_16aug13.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62521108@mylibrary_16aug13.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_VER_C1206_VAL':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62524721@MYLIBRARY_22AUG13.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62524721@mylibrary_22aug13.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62524721@mylibrary_22aug13.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_VER_C0805_VAL':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62524746@MYLIBRARY_22AUG13.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62524746@mylibrary_22aug13.\cap_ver.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62524746@mylibrary_22aug13.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_RB085B-30TL_30V/10A_DNP_C':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62522385@MYLIBRARY_28AUG13.DIODE_RB085B-30TL_30V/10A_DNP.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62522385@mylibrary_28aug13.\diode_rb085b-30tl_30v/10a_dnp.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62522385@mylibrary_28aug13.\diode_rb085b-30tl_30v/10a_dnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_ZENER_18.2V_400W_DO-214AC':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62521457@MYLIBRARY_28AUG13.DIODE_ZENER_18.2V_400W.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62521457@mylibrary_28aug13.\diode_zener_18.2v_400w.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62521457@mylibrary_28aug13.\diode_zener_18.2v_400w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_RB085B-30TL_30V/10A_DNP_C':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62522368@MYLIBRARY_28AUG13.DIODE_RB085B-30TL_30V/10A_DNP.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62522368@mylibrary_28aug13.\diode_rb085b-30tl_30v/10a_dnp.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62522368@mylibrary_28aug13.\diode_rb085b-30tl_30v/10a_dnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN PCB 3X1_.100"_HDR_THVT_1X3':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62519643@MYLIBRARY_22AUG13.CONN PCB 3X1_.100".NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62519643@mylibrary_22aug13.(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62519643@mylibrary_22aug13.(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_2.2UH_8.2A_SMT_7P1X6P5_3.3U':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62523948@MYLIBRARY_22AUG13.IND_2.2UH_8.2A.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62523948@mylibrary_22aug13.\ind_2.2uh_8.2a.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62523948@mylibrary_22aug13.\ind_2.2uh_8.2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_VER_R0603_20K':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62521076@MYLIBRARY_16AUG13.R_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62521076@mylibrary_16aug13.\r_ver.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62521076@mylibrary_16aug13.\r_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_HOZ_R0603_7.5K':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62520515@MYLIBRARY_16AUG13.R_HOZ.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62520515@mylibrary_16aug13.\r_hoz.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62520515@mylibrary_16aug13.\r_hoz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_VER_R0603_2.4K':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62520053@MYLIBRARY_16AUG13.R_VER.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62520053@mylibrary_16aug13.\r_ver.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62520053@mylibrary_16aug13.\r_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TP_63MIL_TH_TP_TH_TP_63MIL_TH':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62518239@MYLIBRARY_28AUG13.TP_63MIL_TH.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62518239@mylibrary_28aug13.\tp_63mil_th.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62518239@mylibrary_28aug13.\tp_63mil_th.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TP_63MIL_TH_TP_TH_TP_63MIL_TH':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62518244@MYLIBRARY_28AUG13.TP_63MIL_TH.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62518244@mylibrary_28aug13.\tp_63mil_th.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62518244@mylibrary_28aug13.\tp_63mil_th.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TP_63MIL_TH_TP_TH_TP_63MIL_TH':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62517147@MYLIBRARY_28AUG13.TP_63MIL_TH.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62517147@mylibrary_28aug13.\tp_63mil_th.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62517147@mylibrary_28aug13.\tp_63mil_th.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TP_63MIL_TH_TP_TH_TP_63MIL_TH':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62517152@MYLIBRARY_28AUG13.TP_63MIL_TH.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62517152@mylibrary_28aug13.\tp_63mil_th.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62517152@mylibrary_28aug13.\tp_63mil_th.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'IC_BD9C601EFJ_HTSOP-J8_HTSOP-J8':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62518865@MYLIBRARY_16AUG13.IC_BD9C601EFJ_HTSOP-J8.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62518865@mylibrary_16aug13.\ic_bd9c601efj_htsop-j8.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62518865@mylibrary_16aug13.\ic_bd9c601efj_htsop-j8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ZX1 'ZX0603_0_SM_180X060_0':;
+
+SECTION_NUMBER 1
+ '@BD9C601EFJEVK-101_SCH_REV00_2014-01-06.SCHEMATIC1(SCH_1):INS62522439@MYLIBRARY_28AUG13.ZX0603_0.NORMAL(CHIPS)':
+ C_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):ins62522439@mylibrary_28aug13.\zx0603_0.normal\(chips)',
+ P_PATH='@\bd9c601efjevk-101_sch_rev00_2014-01-06\.schematic1(sch_1):page3_ins62522439@mylibrary_28aug13.\zx0603_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
